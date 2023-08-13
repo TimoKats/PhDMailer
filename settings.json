@@ -1,6 +1,6 @@
 {
-    "countries":["Netherlands", "Ireland", "Italy", "United Kingdom", "Belgium", "Japan", "South Korea"],
-    "email":"tkats@usetappr.com",
+    "countries":["Ireland", "Italy", "United Kingdom", "Belgium", "Japan", "South Korea"],
+    "email":"<<EMAIL GOES HERE>>",
     "keywords":["NLP/5", "Computer Science/1", "Data Science/2", "AI/2", "Artificial Intelligence/2", "eDiscovery/5", "legal/1", "Netherlands/1", "Natural Language Processing/5","Programming/1","Information Retrieval/6","IR/6","Due dilligence/1","due dilligence/1"],
     "count":5
 }
